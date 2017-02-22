@@ -1,5 +1,7 @@
 One Somerville is a brand new, grassroots effort powered by Somerville advocates, non-profits, the City, community members, and--we hope—-you.
 
+If you want to receive information on upcoming events, or if you are interested in volunteering to support your neighbors, please sign up!
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0kDQv1pmGmOeK09gpZJnANN0h2BCdQhC8FEU9X_lUQwwT9A/viewform" class="btn" style="background: darkcyan; color: white; border: 1px solid darkgreen; margin-bottom: 20px;">Sign up to help</a>
 
 
@@ -26,7 +28,7 @@ NILC: [Conozca sus Derechos](https://www.nilc.org/issues/immigration-enforcement
 
 NILC: [Everyone Has Certain Basic Rights, No Matter Who Is President](https://www.nilc.org/everyone-has-certain-basic-rights/)
 
-## Connect with someone local in Somerville
+## Connect with someone local
 [The Welcome Project](http://www.welcomeproject.org/)
 
 Stay tuned for updates & ways to get involved with One Somerville. If you want to receive information on upcoming events, or if you are interested in volunteering to support your neighbors, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf0kDQv1pmGmOeK09gpZJnANN0h2BCdQhC8FEU9X_lUQwwT9A/viewform) and we will be in touch soon.
