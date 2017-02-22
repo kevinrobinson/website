@@ -8,33 +8,35 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
-    <section class="page-header" style="background: none; padding-bottom: 0px;">
-      <img style="width: 100%" src="http://go.somervillema.gov/onesomerville/images/onesomerville-header.png" />
-      <div id="google_translate_element" style="margin-top: 10px; border-radius: 4px; border: 1px solid #aaa; background: #eee; min-height: 50px; font-weight: bold;"></div>
-      <script type="text/javascript">
-        function googleTranslateElementInit() {
-          new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.VERTICAL, autoDisplay: false, multilanguagePage: true}, 'google_translate_element');
-        }
-      </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    </section>
+  <body style="background: #eee;">
+    <div style="max-width: 800px; background: white; border: 1px solid #ccc; margin-left: auto; margin-right: auto;">
+      <section class="page-header" style="background: none; padding-bottom: 0px;">
+        <img style="width: 100%" src="http://go.somervillema.gov/onesomerville/images/onesomerville-header.png" />
+        <div id="google_translate_element" style="margin-top: 10px; border-radius: 4px; border: 1px solid #aaa; background: #eee; min-height: 50px; font-weight: bold;"></div>
+        <script type="text/javascript">
+          function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.VERTICAL, autoDisplay: false, multilanguagePage: true}, 'google_translate_element');
+          }
+        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+      </section>
 
-    <section class="main-content">
-      {{ content }}
+      <section class="main-content">
+        {{ content }}
 
-      <footer class="site-footer">This is not an official city of Somerville site.</footer>
-    </section>
+        <footer class="site-footer">This is not an official city of Somerville site.</footer>
+      </section>
 
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      {% if site.google_analytics %}
+        <script type="text/javascript">
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
+          ga('create', '{{ site.google_analytics }}', 'auto');
+          ga('send', 'pageview');
+        </script>
+      {% endif %}
+    </div>
   </body>
 </html>

@@ -4,24 +4,33 @@ One Somerville is a brand new, grassroots effort powered by Somerville advocates
 
 
 ## If agents are at your door...
-[Demian Bichir: Conozca Sus Derechos Durante Una Redada de Casa](https://www.aclu.org/know-your-rights/que-hacer-si-esta-involucrado-en-una-redada-de-casa)
+ACLU: [Demian Bichir: Conozca Sus Derechos Durante Una Redada de Casa](https://www.aclu.org/know-your-rights/que-hacer-si-esta-involucrado-en-una-redada-de-casa)
 
-[For young people, what to do if you are stopped by the police](https://www.aclu.org/know-your-rights/what-do-when-encountering-police-youth)
+ACLU: [What to do if immigration agents (ICE) are at your door](https://www.aclu.org/know-your-rights/what-do-if-immigration-agents-ice-are-your-door)
 
-## Preparing for immigration raids
-How to Be Prepared for an Immigration Raid ([Spanish](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/preppararedadas_2007-03-27/), [English](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/immraidsprep_2007-02-27/))
 
-Read more from [NILC](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/raids/)
+
+## Preparing your family
+NILC: How to Be Prepared for an Immigration Raid ([Spanish](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/preppararedadas_2007-03-27/), [English](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/immraidsprep_2007-02-27/))
+
+NILC: Read more from [NILC](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/raids/)
+
+NILC: [Rights during immigration raids](https://www.nilc.org/get-involved/community-education-resources/know-your-rights/raids/)
+
+ACLU: [For young people, what to do if you are stopped by the police](https://www.aclu.org/know-your-rights/what-do-when-encountering-police-youth)
+
+
 
 ## Understanding your rights
-[Conozca sus Derechos](https://www.nilc.org/issues/immigration-enforcement/todos-tienen-derechos-basicos/)
+NILC: [Conozca sus Derechos](https://www.nilc.org/issues/immigration-enforcement/todos-tienen-derechos-basicos/)
 
-[Everyone Has Certain Basic Rights, No Matter Who Is President](https://www.nilc.org/everyone-has-certain-basic-rights/)
+NILC: [Everyone Has Certain Basic Rights, No Matter Who Is President](https://www.nilc.org/everyone-has-certain-basic-rights/)
 
-## Connect with someone locally
+## Connect with someone local in Somerville
 [The Welcome Project](http://www.welcomeproject.org/)
 
 Stay tuned for updates & ways to get involved with One Somerville. If you want to receive information on upcoming events, or if you are interested in volunteering to support your neighbors, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf0kDQv1pmGmOeK09gpZJnANN0h2BCdQhC8FEU9X_lUQwwT9A/viewform) and we will be in touch soon.
+
 
 
 ## Latest news
